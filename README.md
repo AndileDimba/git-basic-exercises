@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-okay  This is a Third commits message
-=======
+This is an updated readme file
+
 booya
->>>>>>> history
+
+histor
